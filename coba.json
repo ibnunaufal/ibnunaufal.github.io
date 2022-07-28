@@ -1,0 +1,14 @@
+[
+    {
+        "name":"bob",
+        "password":"bob",
+        "keystoreName":"bob.keystore",
+        "appName":"bob"
+    },
+    {
+        "name":"bob1",
+        "password":"bob1",
+        "keystoreName":"bob1.keystore",
+        "appName":"bob1"
+    }
+]
